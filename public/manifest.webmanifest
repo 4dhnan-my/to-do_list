@@ -1,0 +1,17 @@
+{
+  "name": "Tempo AI Planner",
+  "short_name": "Tempo",
+  "description": "AI-powered weekly to-do list and productivity planner.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
